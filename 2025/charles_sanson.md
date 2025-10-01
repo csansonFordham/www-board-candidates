@@ -11,11 +11,9 @@ layout: col-generic
 ###![Image](#)
 <br>
 <br>
-I am Charles-Henri Sanson.  Welcome to my candidacy page for the OWASP Global Board of Directors.
+I am Charles Sanson.  Welcome to my candidacy page for the OWASP Global Board of Directors.
 <br>
 
-#### Link to My Video
-[Candidate Name](#)
 <br>
 <br>
 
