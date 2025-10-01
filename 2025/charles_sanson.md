@@ -8,7 +8,7 @@ layout: col-generic
 
 #### About Me
 <img src="https://artcraft.net/images/Me_on_Moon4.jpg" alt="Charles Profile" width=200 height=200>
-###![Image](#)
+
 <br>
 <br>
 I am Charles Sanson.  Welcome to my candidacy page for the OWASP Global Board of Directors.
